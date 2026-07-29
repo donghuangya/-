@@ -3,7 +3,7 @@
 <p align="center">534 个 Telegram 中文资源 · 22 个主题分类</p>
 
 <p align="center">
-  <a href="https://telegra.ph/%E5%8D%9A%E5%BC%88%E7%9A%84%E8%89%BA%E6%9C%AF%E7%A8%B3%E4%BD%8F%E5%BF%83%E6%80%81%E6%8E%8C%E6%8E%A7%E5%85%A8%E5%B1%80-06-14/"><strong>在线浏览</strong></a>
+  <a href="https://t.me/donghuanggongqun/"><strong>在线浏览</strong></a>
   ·
   <a href="https://github.com/jackvale/rectg/issues/new?template=channel_submission.md">提交收录</a>
 </p>
