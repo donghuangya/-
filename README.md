@@ -39,7 +39,7 @@
 ### 🆕 新发现频道
 
 <details open>
-<summary><strong>5 个资源</strong> · <a href="https://www.rectg.com/?c=%E6%96%B0%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93">站内查看</a></summary>
+<summary><strong>5 个资源</strong> · <a [href="https://www.rectg.com/?c=%E6%96%B0%E5%8F%91%E7%8E%B0%E9%A2%91%E9%81%93](https://t.me/Emoji119/52)">站内查看</a></summary>
 
 | 资源 | 人数 | 简介 |
 | --- | ---: | --- |
@@ -55,7 +55,7 @@
 ### 📰 新闻快讯
 
 <details open>
-<summary><strong>40 个资源</strong> · <a href="https://www.rectg.com/?c=%E6%96%B0%E9%97%BB%E5%BF%AB%E8%AE%AF">站内查看</a></summary>
+<summary><strong>40 个资源</strong> · <a href="[https://www.rectg.com/?c=%E6%96%B0%E9%97%BB%E5%BF%AB%E8%AE%AF](https://t.me/Emoji137/4)">站内查看</a></summary>
 
 | 资源 | 人数 | 简介 |
 | --- | ---: | --- |
@@ -106,7 +106,7 @@
 ### 💻 数码科技
 
 <details open>
-<summary><strong>33 个资源</strong> · <a href="https://www.rectg.com/?c=%E6%95%B0%E7%A0%81%E7%A7%91%E6%8A%80">站内查看</a></summary>
+<summary><strong>33 个资源</strong> · <a href="[https://www.rectg.com/?c=%E6%95%B0%E7%A0%81%E7%A7%91%E6%8A%80](https://t.me/Emoji131/131)">站内查看</a></summary>
 
 | 资源 | 人数 | 简介 |
 | --- | ---: | --- |
@@ -150,7 +150,7 @@
 ### 👨‍💻 开发运维
 
 <details open>
-<summary><strong>10 个资源</strong> · <a href="https://www.rectg.com/?c=%E5%BC%80%E5%8F%91%E8%BF%90%E7%BB%B4">站内查看</a></summary>
+<summary><strong>10 个资源</strong> · <a href="[https://www.rectg.com/?c=%E5%BC%80%E5%8F%91%E8%BF%90%E7%BB%B4](https://t.me/Emoji130/2)">站内查看</a></summary>
 
 | 资源 | 人数 | 简介 |
 | --- | ---: | --- |
@@ -184,7 +184,7 @@
 ### 🧰 软件工具
 
 <details open>
-<summary><strong>17 个资源</strong> · <a href="https://www.rectg.com/?c=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7">站内查看</a></summary>
+<summary><strong>17 个资源</strong> · <a href="[https://www.rectg.com/?c=%E8%BD%AF%E4%BB%B6%E5%B7%A5%E5%85%B7](https://t.me/dhgfpd/4)">站内查看</a></summary>
 
 | 资源 | 人数 | 简介 |
 | --- | ---: | --- |
@@ -212,7 +212,7 @@
 ### ☁️ 网盘资源
 
 <details open>
-<summary><strong>7 个资源</strong> · <a href="https://www.rectg.com/?c=%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90">站内查看</a></summary>
+<summary><strong>7 个资源</strong> · <a href="[https://www.rectg.com/?c=%E7%BD%91%E7%9B%98%E8%B5%84%E6%BA%90](https://t.me/+MoShoXD0g642ZjNl)">站内查看</a></summary>
 
 | 资源 | 人数 | 简介 |
 | --- | ---: | --- |
